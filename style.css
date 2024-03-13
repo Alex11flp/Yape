@@ -2,6 +2,8 @@ body{
  background-size: cover;
   background-color: white;
   padding-top: 150px;
+  height: 100%;
+  width: 100%;
 }
 .contra{
   position: absolute;
