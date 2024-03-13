@@ -3,7 +3,6 @@ body{
   background-color: white;
   padding-top: 150px;
   height: 100%;
-  width: 100%;
 }
 .contra{
   position: absolute;
@@ -13,7 +12,7 @@ body{
   padding-top: 40px;
   background-color: #2b3147;
   border-radius: 40px;
-  height: 100%;
+  height: 200px;
 }
 
 #puto{
