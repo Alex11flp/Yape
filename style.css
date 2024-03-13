@@ -4,6 +4,7 @@ body{
   padding-top: 150px;
 }
 .contra{
+  position: absolute;
   padding-bottom: 50px;
   padding-right: 10px;
   padding-left: 10px;
